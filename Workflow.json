@@ -282,8 +282,7 @@
   },
   "versionId": "f7b2e4ff-e561-4d70-a7fd-a1e5262c18cb",
   "meta": {
-    "templateCredsSetupCompleted": true,
-    "instanceId": "be4694971038e48547b5a94393925b4b057fac46c45bca96468b265b3cf1291e"
+    "templateCredsSetupCompleted": false
   },
   "nodeGroups": [],
   "id": "MSgLnfe2qFk3J1NB",
