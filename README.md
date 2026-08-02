@@ -28,6 +28,6 @@ The bot supports both text and voice messages. Simply send it a question, and it
 
 ## 🚀 Try it yourself
 You can chat with the bot here:<br>
-@hamouns_first_telegram_chat_bot
+[@hamouns_first_telegram_chat_bot](https://t.me/hamouns_first_telegram_chat_bot)
 <br>
 Whether you type a message or send a voice note, the bot will understand your request and reply just like a modern AI assistant.
