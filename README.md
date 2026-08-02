@@ -1,4 +1,4 @@
-# 🤖 Project-3-My-First-LLM-Powered-Telegram-Chatbot
+# 🤖 Project-3-My-First-LLM-Powered-Telegram-Chatbot-using-n8n
 Welcome to my first AI-powered Telegram chatbot, built entirely with an n8n workflow! <br>
 The bot supports both text and voice messages. Simply send it a question, and it will use a large language model (LLM) to generate a natural, conversational response directly within Telegram. <br>
 <br>
