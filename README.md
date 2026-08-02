@@ -20,4 +20,15 @@ You can chat with the bot here:<br>
 <br>
 Whether you type a message or send a voice note, the bot will understand your request and reply just like a modern AI assistant.
 
+<br>
+
+## 💻 Implement the workflow
+Here's how you can copy this workflow on your own n8n account: <br>
+<ol>
+  <li>Create a Telegram bot using botfather and save the access token.</li>
+  <li>Download Workflow.json and import it on n8n.</li>
+  <li>Double click on the Telegram Trigger Node and add a new credential with your own access token.</li>
+  <li>Publish your workflow</li>
+  <li>Now you have your own LLM Powered Telegram Chat bot! Enjoy!</li>
+</ol>
 
